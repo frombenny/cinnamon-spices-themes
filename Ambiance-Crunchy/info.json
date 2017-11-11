@@ -1,5 +1,6 @@
 {
     "author": "frombenny",
-    "name": "Ambiance Crunchy",
-    "description": "It's an Ambiance like theme available in orange, blue, grey and green."
+	"name": "Ambiance Crunchy",
+	"description": "Mod of the Ambiance theme with green selection and close button color."
+    "license": "GPL-3"
 }
